@@ -1,0 +1,1 @@
+This repository shows what I learned from TryHackMe Windows Fundamentals 1 to 3. It includes proof of the labs I completed and the skills I practiced. At the bottom, there are pictures to reference the work I did.
